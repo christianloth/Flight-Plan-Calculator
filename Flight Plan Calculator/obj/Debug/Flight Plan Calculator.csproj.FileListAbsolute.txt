@@ -1,0 +1,10 @@
+c:\users\christian loth\documents\visual studio 2012\Projects\Flight Plan Calculator\Flight Plan Calculator\bin\Debug\Flight Plan Calculator.exe.config
+C:\Users\Christian Loth\documents\visual studio 2012\Projects\Flight Plan Calculator\Flight Plan Calculator\bin\Debug\Flight Plan Calculator.exe
+C:\Users\Christian Loth\documents\visual studio 2012\Projects\Flight Plan Calculator\Flight Plan Calculator\bin\Debug\Flight Plan Calculator.pdb
+C:\Users\Christian Loth\documents\visual studio 2012\Projects\Flight Plan Calculator\Flight Plan Calculator\obj\Debug\Flight Plan Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Christian Loth\documents\visual studio 2012\Projects\Flight Plan Calculator\Flight Plan Calculator\obj\Debug\FlightPlanCalculator.Properties.Resources.resources
+C:\Users\Christian Loth\documents\visual studio 2012\Projects\Flight Plan Calculator\Flight Plan Calculator\obj\Debug\Flight Plan Calculator.csproj.GenerateResource.Cache
+C:\Users\Christian Loth\documents\visual studio 2012\Projects\Flight Plan Calculator\Flight Plan Calculator\obj\Debug\Flight Plan Calculator.exe
+C:\Users\Christian Loth\documents\visual studio 2012\Projects\Flight Plan Calculator\Flight Plan Calculator\obj\Debug\Flight Plan Calculator.pdb
+C:\Users\Christian Loth\documents\visual studio 2012\Projects\Flight Plan Calculator\Flight Plan Calculator\obj\Debug\FlightPlanCalculator.windowHeadingGroundspeed.resources
+C:\Users\Christian Loth\documents\visual studio 2012\Projects\Flight Plan Calculator\Flight Plan Calculator\obj\Debug\FlightPlanCalculator.windowStarter.resources
